@@ -19,7 +19,7 @@
 
 <a align="center" href="https://profile-counter.glitch.me/{Avinash905}/count.svg">
   
-  ![VisitorCount](https://profile-counter.glitch.me/{Avinash905}/count.svg)  
+  ![VisitorCount](https://profile-counter.glitch.me/{anish-k-mishra}/count.svg)  
 </a>
 
 <br/>

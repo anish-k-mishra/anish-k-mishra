@@ -1,28 +1,31 @@
 <h1 align="center">
-  <img
+  <!-- <img
     src="https://emojis.slackmojis.com/emojis/images/1643514732/7373/hand_wave.gif?1643514732"
     width="30"
-  /> Hey! Welcome Nice to see you.
+  /> -->
+  👋 Hey! Welcome to my GitHub account.
 </h1>
-<h1 align="center" style="color:purple;">I'm Dunna Avinash <img
+<h1 align="center" style="">I'm Anish Mishra 👨‍💻
+<!-- <img
     src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"
     width="30"
-  /></h1>
+  /> -->
+  </h1>
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=6495ED&vCenter=true&pause=1000&size=22" />
-</p>
+</p> -->
 
 <br/>
 
 ### Visitor's Count:
 
-<a align="center" href="https://profile-counter.glitch.me/{Avinash905}/count.svg">
+<a align="center" href="https://profile-counter.glitch.me/{anish-k-mishra}}/count.svg">
   
   ![VisitorCount](https://profile-counter.glitch.me/{anish-k-mishra}/count.svg)  
 </a>
 
-<br/>
+<!-- <br/> -->
 
 ### About Me
 
@@ -34,7 +37,7 @@ If you're interested in my professional experience and skills, you can check out
 
 <br/>
 
-### Recent Projects
+## Recent Projects
 
 On my GitHub, you'll find a variety of projects that showcase my skills and interests. Some of my recent projects include:
 

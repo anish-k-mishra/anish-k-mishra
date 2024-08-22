@@ -1,4 +1,4 @@
-## Hi there 👋
+## yi there 👋
 
 <!--
 **anish-k-mishra/anish-k-mishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

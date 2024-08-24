@@ -12,9 +12,9 @@
   /> -->
   </h1>
 
-<!-- <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=6495ED&vCenter=true&pause=1000&size=22" />
-</p> -->
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&center=true&vCenter=true&width=435&height=54&lines=A+Competetive+Programmer;A+Full+Stack+Web+Developer;A+Musician+and+Youtuber;Tech+freak%2C+to+create+impact!" alt="Typing SVG" />
+</p>
 
 <br/>
 

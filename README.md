@@ -38,6 +38,7 @@ Apart from coding, I’m actively involved in various campus clubs, including th
 I’m always eager to learn new technologies, take on challenges, and contribute to projects that make a difference. Let's connect and collaborate on exciting ideas!
 
 [![Anish Mishra - RESUME](https://img.shields.io/badge/Anish%20Mishra-RESUME-blue?style=for-the-badge&labelColor=1DA1F2&color=5865f2&logoColor=white)](https://drive.google.com/file/d/1sB_tR0yhAkejdlGWykVyZA9KiGuyBWxt/view?usp=drive_link)
+<a href="https://anish-s-portfolio.vercel.app/" target="_blank" rel="noreferrer" style ="padding: 10px"> <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white" height = "27" alt="c language" /> </a>
 
 
 <br/>
@@ -95,6 +96,9 @@ I'm always open to new opportunities and collaborations, so feel free to get in 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
 </a>
+<a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" height = "25px" alt="React Router Dom" />
+</a>
 
 
 </div>
@@ -142,15 +146,15 @@ I'm always open to new opportunities and collaborations, so feel free to get in 
       alt="matplotlib"
     />
   </a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="keras" /> </a>
-  <a href="https://www.tensorflow.org" target="_blank">
+  <!-- <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="keras" /> </a> -->
+  <!-- <a href="https://www.tensorflow.org" target="_blank">
     <img
       src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"
       alt="tensorflow"
     />
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="pytorch" /> </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv" /> </a>
+  </a> -->
+  <!-- <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="pytorch" /> </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv" /> </a> -->
 </div>
 <br/>
 
@@ -158,24 +162,24 @@ I'm always open to new opportunities and collaborations, so feel free to get in 
 <div align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" /> </a>
-<a href="https://insomnia.rest/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" alt="insomnia" /> </a>
+<!-- <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" alt="insomnia" /> </a> -->
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" /> </a>
 <a href="https://render.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="render" /> </a>
 <a href="https://netlify.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="netlify" /> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" /> </a>
-<a href="https://unity.com/" target="_blank">
+<!-- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" /> </a> -->
+<!-- <a href="https://unity.com/" target="_blank">
   <img
     src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"
     alt="unity"
   />
-</a>
+</a> -->
 <a href="https://www.arduino.cc/" target="_blank">
   <img
     src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"
     alt="arduino"
   />
 </a>
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium" /> </a> 
+<!-- <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium" /> </a>  -->
  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" /> </a>
 </div>
 
@@ -188,19 +192,19 @@ I'm always open to new opportunities and collaborations, so feel free to get in 
 <h3>🔥 Streak Stats</h3>
 
 <p>
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Avinash's streak" src="https://streak-stats.demolab.com/?user=avinash905&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Avinash's streak" src="https://streak-stats.demolab.com/?user=anish-k-mishra&theme=monokai-metallian&hide_border=true"/>
 </p>
 
 <h3>💻 GitHub Profile Stats</h3>
 
-<img alt="Avinash's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=avinash905&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+<img alt="Anish's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=anish-k-mishra&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
-<img alt="Avinash's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=avinash905&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+<img alt="Anish's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=anish-k-mishra&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 
-<img alt="Avinash's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=avinash905&bg_color=1f222e&color=f2d364&line=f85d7f&point=fc9867&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
+<img alt="Anish's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=anish-k-mishra&bg_color=1f222e&color=f2d364&line=f85d7f&point=fc9867&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
 
 <br />

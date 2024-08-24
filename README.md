@@ -37,8 +37,13 @@ Apart from coding, I’m actively involved in various campus clubs, including th
 
 I’m always eager to learn new technologies, take on challenges, and contribute to projects that make a difference. Let's connect and collaborate on exciting ideas!
 
-[![Anish Mishra - RESUME](https://img.shields.io/badge/Anish%20Mishra-RESUME-blue?style=for-the-badge&labelColor=1DA1F2&color=5865f2&logoColor=white)](https://drive.google.com/file/d/1sB_tR0yhAkejdlGWykVyZA9KiGuyBWxt/view?usp=drive_link)
-<a href="https://anish-s-portfolio.vercel.app/" target="_blank" rel="noreferrer" style ="padding: 10px"> <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white" height = "27" alt="c language" /> </a>
+<div align = 'center'>
+
+  [![Anish Mishra - RESUME](https://img.shields.io/badge/Anish%20Mishra-RESUME-blue?style=for-the-badge&labelColor=1DA1F2&color=5865f2&logoColor=white)](https://drive.google.com/file/d/1sB_tR0yhAkejdlGWykVyZA9KiGuyBWxt/view?usp=drive_link)
+  <a href="https://anish-s-portfolio.vercel.app/" target="_blank" rel="noreferrer" style ="padding: 5px"> <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white" height = "27" alt="c language" /> </a>
+  <a href="https://codeforces.com/profile/Anishh_" target="_blank" rel="noreferrer" style ="padding: 5px"> <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=Codeforces&logoColor=white" height = "25" alt="c language" /> </a>
+  <a href="https://leetcode.com/u/Anishh_/" target="_blank" rel="noreferrer" style ="padding: 5px"> <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" height = "25" alt="c language" /> </a>
+</div>
 
 
 <br/>
@@ -56,6 +61,7 @@ On my GitHub, you'll find a variety of projects that showcase my skills and inte
 I'm always open to new opportunities and collaborations, so feel free to get in touch with me. Let's build something great together!
 
 <div align='center'><a href="https://github.com/anish-k-mishra" target="_blank" style = "padding:7px"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/anish-k-mishra/" target="_blank" style = "padding:7px"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:anishkumarc92@gmail.com" target="_blank" style = "padding:7px"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+<a href="https://www.youtube.com/@anishh_3099" target="_blank" style = "padding:7px"><img alt="Gmail" src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" height = "27px" /></a>
 
 
 </div>

@@ -29,11 +29,16 @@
 
 ### About Me
 
-I'm passionate about Web Development, Data Science, and Game Development and I love using technology to create innovative solutions that solve real-world problems. I have experience working on Web Development and I'm always eager to learn new skills.
+Hello! I'm Anish Mishra, a passionate and innovative Electrical and Electronics Engineering undergraduate at Birla Institute of Technology, Mesra. I have a strong interest in software development, web technologies, and problem-solving. My journey in tech has led me to work on a variety of exciting projects, from building fully functional portfolio websites to developing AI-powered web applications.
 
-If you're interested in my professional experience and skills, you can check out my resume.
+With hands-on experience in JavaScript, React JS, and Node JS, I've developed several projects that showcase my ability to combine creativity with technical expertise. I have interned at Slash Mark IT Start-Up and Suavy Technologies Pvt. Ltd., where I collaborated on real-world projects, honed my development skills, and contributed to impactful solutions.
 
-[![Resume](https://img.shields.io/badge/Dunna%20Avinash-RESUME-blue?style=for-the-badge&labelColor=1DA1F2&color=5865f2&logoColor=white)](https://drive.google.com/file/d/1ggIrjIm6rvnV26GqJiZFitfgZm5mw6P0/view?usp=drive_link)
+Apart from coding, I’m actively involved in various campus clubs, including the Finance Club and Ehsaas: Dramatics Society, where I’ve developed my leadership and creative skills. My dedication to continuous learning is reflected in my achievements, such as securing a top rank in GATE 2024 and solving over 500+ problems on platforms like LeetCode and CodeForces.
+
+I’m always eager to learn new technologies, take on challenges, and contribute to projects that make a difference. Let's connect and collaborate on exciting ideas!
+
+[![Anish Mishra - RESUME](https://img.shields.io/badge/Anish%20Mishra-RESUME-blue?style=for-the-badge&labelColor=1DA1F2&color=5865f2&logoColor=white)](https://drive.google.com/file/d/1sB_tR0yhAkejdlGWykVyZA9KiGuyBWxt/view?usp=drive_link)
+
 
 <br/>
 
@@ -41,15 +46,16 @@ If you're interested in my professional experience and skills, you can check out
 
 On my GitHub, you'll find a variety of projects that showcase my skills and interests. Some of my recent projects include:
 
-[Recipen](https://github.com/Avinash905/Recipen): A recipe website where users can discover recipes and food blogs. Pro users can add their own recipes and food blogs.<br/>
-[HealthBooker](https://github.com/Avinash905/HealthBooker): This is a healthcare platform where you can browse doctors, manage profiles, and book appointments.<br/>
+[Summarize It](https://github.com/anish-k-mishra/Summarise-It): A web app that condenses lengthy articles and webpages into concise summaries. Built with React JS, Redux Toolkit, and Vite, it uses OpenAI's summarization APIs via Rapid API for quick and efficient results. The app integrates Tailwind CSS, Node JS, and Express JS for a smooth user experience, offering a streamlined solution for digesting large amounts of information.<br/>
+
+[Portfolio](https://github.com/anish-k-mishra/Anish-s-Portfolio):  A visually appealing and fully functional portfolio website built using modern technologies like React JS, Tailwind CSS, and Vite. It features 3D models rendered with Three JS and dynamic content managed through React Router Dom. The contact form is linked with EmailJS for seamless communication, showcasing your work and skills in an interactive and professional manner.<br/>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Get in Touch
 
 I'm always open to new opportunities and collaborations, so feel free to get in touch with me. Let's build something great together!
 
-<div align='center'><a href="https://github.com/Avinash905" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/dunna-avinash" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:avinash.90527@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://twitter.com/avinashdunna" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://discord.com/users/744252684726435941/"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+<div align='center'><a href="https://github.com/anish-k-mishra" target="_blank" style = "padding:7px"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/anish-k-mishra/" target="_blank" style = "padding:7px"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:anishkumarc92@gmail.com" target="_blank" style = "padding:7px"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+
 
 </div>
 <br/>
@@ -58,7 +64,7 @@ I'm always open to new opportunities and collaborations, so feel free to get in 
 
 <br/>
 
-<h4>Programming Languages:</h4>
+<h3>Programming Languages:</h3>
 
 <div align="center">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c language" /> </a>
@@ -71,17 +77,12 @@ I'm always open to new opportunities and collaborations, so feel free to get in 
     alt="python"
   />
 </a>
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
-<img
-    src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"
-    alt="csharp"
-  />
-</a>
+
 </div>
 
 <br/>
 
-<h4>Front End:</h4>
+<h3>Front End:</h3>
 <div align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> </a>
@@ -91,7 +92,10 @@ I'm always open to new opportunities and collaborations, so feel free to get in 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" /> </a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="mui" /> </a>
 <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux-toolkit" /> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" /> </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+</a>
+
 
 </div>
 
@@ -113,7 +117,7 @@ I'm always open to new opportunities and collaborations, so feel free to get in 
 
 <br/>
 
-<h4>Database:</h4>
+<h3>Database:</h3>
 <div align="center">
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=orange&color=257bc2" alt="mysql" /> </a>
@@ -122,7 +126,7 @@ I'm always open to new opportunities and collaborations, so feel free to get in 
 
 <br/>
 
-<h4>Data Science:</h4>
+<h3>Data Science:</h3>
 <div align="center">
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" /> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" /> </a>
@@ -150,7 +154,7 @@ I'm always open to new opportunities and collaborations, so feel free to get in 
 </div>
 <br/>
 
-<h4>Other Technologies</h4>
+<h3>Other Technologies</h3>
 <div align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" /> </a>

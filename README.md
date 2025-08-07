@@ -18,12 +18,12 @@
 
 <br/>
 
+
+
 ### Visitor's Count:
 
-<a align="center" href="https://profile-counter.glitch.me/anish-k-mishra/count.svg">
-  
-  ![VisitorCount](https://profile-counter.glitch.me/anish-k-mishra/count.svg)  
-</a>
+![Visitor Count](https://profile-counter.glitch.me/anish-k-mishra/count.svg)
+
 
 
 ### About Me

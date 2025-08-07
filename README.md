@@ -20,9 +20,8 @@
 
 
 
-### Visitor's Count:
+![Profile views](https://komarev.com/ghpvc/?username=anish-k-mishra&label=Profile%20views&color=0e75b6&style=flat)
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=anish-k-mishra)
 
 
 

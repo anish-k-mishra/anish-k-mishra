@@ -20,7 +20,12 @@
 
 
 
-![Profile views](https://komarev.com/ghpvc/?username=anish-k-mishra&label=Profile%20views&color=0e75b6&style=flat)
+<h3 align="center">Visitor's Count 🚀</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anish-k-mishra&label=🔥%20Visitors&color=orange&style=for-the-badge" alt="Visitor count badge"/>
+</p>
+
 
 
 
